@@ -24,6 +24,7 @@ public class Login extends javax.swing.JFrame {
     /**
      * Creates new form Login
      */
+   //ỂDFDS
     public static MainFrame main;
     boolean viewPass = false;
     boolean forgot = false;
